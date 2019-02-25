@@ -1,0 +1,802 @@
+{
+  "name": "Drone X Challenge",
+  "children": [
+    {
+      "name": "Multi rotor Drones with battery-Powered",
+      "children": [
+        {
+          "name": "Flugauto",
+          "children": [
+            {
+              "name": "Feasibility",
+              "children": [
+                {
+                  "name": "Score 0-10"
+                }
+              ]
+            },
+            {
+              "name": "About the applicant",
+              "children": [
+                {
+                  "name": "Title of the Applicant"
+                },
+                {
+                  "name": "Name of the applicant"
+                },
+                {
+                  "name": "Email address"
+                },
+                {
+                  "name": "Phone number"
+                },
+                {
+                  "name": "Gender"
+                },
+                {
+                  "name": "Responsibility"
+                },
+                {
+                  "name": "Country of Residence"
+                },
+                {
+                  "name": "Educational Background"
+                },
+                {
+                  "name": "Skills"
+                },
+                {
+                  "name": "Previous Experience"
+                },
+                {
+                  "name": "Current Experience"
+                },
+                {
+                  "name": "Recurring Entrepreneur"
+                }
+              ]
+            },
+            {
+              "name": "Product Description - Technical Mechanism",
+              "children": [
+                {
+                  "name": "Size of the drone"
+                },
+                {
+                  "name": "Weight of the drone"
+                },
+                {
+                  "name": "Weight drone can carry - Payload capacity"
+                },
+                {
+                  "name": "Drone frame"
+                },
+                {
+                  "name": "Innovativeness"
+                },
+                {
+                  "name": "Type of energy source"
+                },
+                {
+                  "name": "More Technical Details"
+                },
+                {
+                  "name": "Type of hydro-carbon – (if hydro-carbon)"
+                },
+                {
+                  "name": "Type of battery"
+                },
+                {
+                  "name": "Fault Tolerance"
+                },
+                {
+                  "name": "Autonomous Navigation"
+                },
+                {
+                  "name": "Design"
+                },
+                {
+                  "name": "Rotor details"
+                },
+                {
+                  "name": "Auto-pilot details"
+                },
+                {
+                  "name": "Battery details"
+                },
+                {
+                  "name": "Sensors"
+                },
+                {
+                  "name": "On-board PC"
+                }
+              ]
+            },
+            {
+              "name": "Product description – Business Model",
+              "children": [
+                {
+                  "name": "Business stage"
+                },
+                {
+                  "name": "Revenue stream"
+                },
+                {
+                  "name": "Competitive advantage"
+                },
+                {
+                  "name": "Current Market"
+                },
+                {
+                  "name": "Marketing Plan & Strategy"
+                },
+                {
+                  "name": "Market Penetration Strategy"
+                }
+              ]
+            },
+            {
+              "name": "About Company",
+              "children": [
+                {
+                  "name": "Drone Company Name"
+                },
+                {
+                  "name": "Number of employees"
+                },
+                {
+                  "name": "Company Details"
+                },
+                {
+                  "name": "Location"
+                },
+                {
+                  "name": "Year of Establishment"
+                },
+                {
+                  "name": "Qualified or not. Phase 1, 2 or 3"
+                }
+              ]
+            }
+
+          ]
+        }
+
+
+
+
+      ]
+    },
+    {
+      "name": "Multi-rotor Drone with Hydrocarbon-Powered",
+      "children": [
+        {
+          "name": "Feasibility",
+          "children": [
+            {
+              "name": "Score 0-10"
+            }
+          ]
+        },
+        {
+          "name": "About the applicant",
+          "children": [
+            {
+              "name": "Title of the Applicant"
+            },
+            {
+              "name": "Name of the applicant"
+            },
+            {
+              "name": "Email address"
+            },
+            {
+              "name": "Phone number"
+            },
+            {
+              "name": "Gender"
+            },
+            {
+              "name": "Responsibility"
+            },
+            {
+              "name": "Country of Residence"
+            },
+            {
+              "name": "Educational Background"
+            },
+            {
+              "name": "Skills"
+            },
+            {
+              "name": "Previous Experience"
+            },
+            {
+              "name": "Current Experience"
+            },
+            {
+              "name": "Recurring Entrepreneur"
+            }
+          ]
+        },
+        {
+          "name": "Product Description - Technical Mechanism",
+          "children": [
+            {
+              "name": "Size of the drone"
+            },
+            {
+              "name": "Weight of the drone"
+            },
+            {
+              "name": "Weight drone can carry - Payload capacity"
+            },
+            {
+              "name": "Drone frame"
+            },
+            {
+              "name": "Innovativeness"
+            },
+            {
+              "name": "Type of energy source"
+            },
+            {
+              "name": "More Technical Details"
+            },
+            {
+              "name": "Type of hydro-carbon – (if hydro-carbon)"
+            },
+            {
+              "name": "Type of battery"
+            },
+            {
+              "name": "Fault Tolerance"
+            },
+            {
+              "name": "Autonomous Navigation"
+            },
+            {
+              "name": "Design"
+            },
+            {
+              "name": "Rotor details"
+            },
+            {
+              "name": "Auto-pilot details"
+            },
+            {
+              "name": "Battery details"
+            },
+            {
+              "name": "Sensors"
+            },
+            {
+              "name": "On-board PC"
+            }
+          ]
+        },
+        {
+          "name": "Product description – Business Model",
+          "children": [
+            {
+              "name": "Business stage"
+            },
+            {
+              "name": "Revenue stream"
+            },
+            {
+              "name": "Competitive advantage"
+            },
+            {
+              "name": "Current Market"
+            },
+            {
+              "name": "Marketing Plan & Strategy"
+            },
+            {
+              "name": "Market Penetration Strategy"
+            }
+          ]
+        },
+        {
+          "name": "About Company",
+          "children": [
+            {
+              "name": "Drone Company Name"
+            },
+            {
+              "name": "Number of employees"
+            },
+            {
+              "name": "Company Details"
+            },
+            {
+              "name": "Location"
+            },
+            {
+              "name": "Year of Establishment"
+            },
+            {
+              "name": "Qualified or not. Phase 1, 2 or 3"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "name": "Fixed Wing Drones with Battery-Powered",
+      "children": [
+        {
+          "name": "Feasibility",
+          "children": [
+            {
+              "name": "Score 0-10"
+            }
+          ]
+        },
+        {
+          "name": "About the applicant",
+          "children": [
+            {
+              "name": "Title of the Applicant"
+            },
+            {
+              "name": "Name of the applicant"
+            },
+            {
+              "name": "Email address"
+            },
+            {
+              "name": "Phone number"
+            },
+            {
+              "name": "Gender"
+            },
+            {
+              "name": "Responsibility"
+            },
+            {
+              "name": "Country of Residence"
+            },
+            {
+              "name": "Educational Background"
+            },
+            {
+              "name": "Skills"
+            },
+            {
+              "name": "Previous Experience"
+            },
+            {
+              "name": "Current Experience"
+            },
+            {
+              "name": "Recurring Entrepreneur"
+            }
+          ]
+        },
+        {
+          "name": "Product Description - Technical Mechanism",
+          "children": [
+            {
+              "name": "Size of the drone"
+            },
+            {
+              "name": "Weight of the drone"
+            },
+            {
+              "name": "Weight drone can carry - Payload capacity"
+            },
+            {
+              "name": "Drone frame"
+            },
+            {
+              "name": "Innovativeness"
+            },
+            {
+              "name": "Type of energy source"
+            },
+            {
+              "name": "More Technical Details"
+            },
+            {
+              "name": "Type of hydro-carbon – (if hydro-carbon)"
+            },
+            {
+              "name": "Type of battery"
+            },
+            {
+              "name": "Fault Tolerance"
+            },
+            {
+              "name": "Autonomous Navigation"
+            },
+            {
+              "name": "Design"
+            },
+            {
+              "name": "Rotor details"
+            },
+            {
+              "name": "Auto-pilot details"
+            },
+            {
+              "name": "Battery details"
+            },
+            {
+              "name": "Sensors"
+            },
+            {
+              "name": "On-board PC"
+            }
+          ]
+        },
+        {
+          "name": "Product description – Business Model",
+          "children": [
+            {
+              "name": "Business stage"
+            },
+            {
+              "name": "Revenue stream"
+            },
+            {
+              "name": "Competitive advantage"
+            },
+            {
+              "name": "Current Market"
+            },
+            {
+              "name": "Marketing Plan & Strategy"
+            },
+            {
+              "name": "Market Penetration Strategy"
+            }
+          ]
+        },
+        {
+          "name": "About Company",
+          "children": [
+            {
+              "name": "Drone Company Name"
+            },
+            {
+              "name": "Number of employees"
+            },
+            {
+              "name": "Company Details"
+            },
+            {
+              "name": "Location"
+            },
+            {
+              "name": "Year of Establishment"
+            },
+            {
+              "name": "Qualified or not. Phase 1, 2 or 3"
+            }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "name": "Fixed Wing Drones with Hydrocarbon-Powered",
+      "children": [
+        {
+          "name": "Feasibility",
+          "children": [
+            {
+              "name": "Score 0-10"
+            }
+          ]
+        },
+        {
+          "name": "About the applicant",
+          "children": [
+            {
+              "name": "Title of the Applicant"
+            },
+            {
+              "name": "Name of the applicant"
+            },
+            {
+              "name": "Email address"
+            },
+            {
+              "name": "Phone number"
+            },
+            {
+              "name": "Gender"
+            },
+            {
+              "name": "Responsibility"
+            },
+            {
+              "name": "Country of Residence"
+            },
+            {
+              "name": "Educational Background"
+            },
+            {
+              "name": "Skills"
+            },
+            {
+              "name": "Previous Experience"
+            },
+            {
+              "name": "Current Experience"
+            },
+            {
+              "name": "Recurring Entrepreneur"
+            }
+          ]
+        },
+        {
+          "name": "Product Description - Technical Mechanism",
+          "children": [
+            {
+              "name": "Size of the drone"
+            },
+            {
+              "name": "Weight of the drone"
+            },
+            {
+              "name": "Weight drone can carry - Payload capacity"
+            },
+            {
+              "name": "Drone frame"
+            },
+            {
+              "name": "Innovativeness"
+            },
+            {
+              "name": "Type of energy source"
+            },
+            {
+              "name": "More Technical Details"
+            },
+            {
+              "name": "Type of hydro-carbon – (if hydro-carbon)"
+            },
+            {
+              "name": "Type of battery"
+            },
+            {
+              "name": "Fault Tolerance"
+            },
+            {
+              "name": "Autonomous Navigation"
+            },
+            {
+              "name": "Design"
+            },
+            {
+              "name": "Rotor details"
+            },
+            {
+              "name": "Auto-pilot details"
+            },
+            {
+              "name": "Battery details"
+            },
+            {
+              "name": "Sensors"
+            },
+            {
+              "name": "On-board PC"
+            }
+          ]
+        },
+        {
+          "name": "Product description – Business Model",
+          "children": [
+            {
+              "name": "Business stage"
+            },
+            {
+              "name": "Revenue stream"
+            },
+            {
+              "name": "Competitive advantage"
+            },
+            {
+              "name": "Current Market"
+            },
+            {
+              "name": "Marketing Plan & Strategy"
+            },
+            {
+              "name": "Market Penetration Strategy"
+            }
+          ]
+        },
+        {
+          "name": "About Company",
+          "children": [
+            {
+              "name": "Drone Company Name"
+            },
+            {
+              "name": "Number of employees"
+            },
+            {
+              "name": "Company Details"
+            },
+            {
+              "name": "Location"
+            },
+            {
+              "name": "Year of Establishment"
+            },
+            {
+              "name": "Qualified or not. Phase 1, 2 or 3"
+            }
+          ]
+        }
+
+      ]
+    },
+
+
+    {
+      "name": "Other Drones Categories",
+      "children": [
+        {
+          "name": "Feasibility",
+          "children": [
+            {
+              "name": "Score 0-10"
+            }
+          ]
+        },
+        {
+          "name": "About the applicant",
+          "children": [
+            {
+              "name": "Title of the Applicant"
+            },
+            {
+              "name": "Name of the applicant"
+            },
+            {
+              "name": "Email address"
+            },
+            {
+              "name": "Phone number"
+            },
+            {
+              "name": "Gender"
+            },
+            {
+              "name": "Responsibility"
+            },
+            {
+              "name": "Country of Residence"
+            },
+            {
+              "name": "Educational Background"
+            },
+            {
+              "name": "Skills"
+            },
+            {
+              "name": "Previous Experience"
+            },
+            {
+              "name": "Current Experience"
+            },
+            {
+              "name": "Recurring Entrepreneur"
+            }
+          ]
+        },
+        {
+          "name": "Product Description - Technical Mechanism",
+          "children": [
+            {
+              "name": "Size of the drone"
+            },
+            {
+              "name": "Weight of the drone"
+            },
+            {
+              "name": "Weight drone can carry - Payload capacity"
+            },
+            {
+              "name": "Drone frame"
+            },
+            {
+              "name": "Innovativeness"
+            },
+            {
+              "name": "Type of energy source"
+            },
+            {
+              "name": "More Technical Details"
+            },
+            {
+              "name": "Type of hydro-carbon – (if hydro-carbon)"
+            },
+            {
+              "name": "Type of battery"
+            },
+            {
+              "name": "Fault Tolerance"
+            },
+            {
+              "name": "Autonomous Navigation"
+            },
+            {
+              "name": "Design"
+            },
+            {
+              "name": "Rotor details"
+            },
+            {
+              "name": "Auto-pilot details"
+            },
+            {
+              "name": "Battery details"
+            },
+            {
+              "name": "Sensors"
+            },
+            {
+              "name": "On-board PC"
+            }
+          ]
+        },
+        {
+          "name": "Product description – Business Model",
+          "children": [
+            {
+              "name": "Business stage"
+            },
+            {
+              "name": "Revenue stream"
+            },
+            {
+              "name": "Competitive advantage"
+            },
+            {
+              "name": "Current Market"
+            },
+            {
+              "name": "Marketing Plan & Strategy"
+            },
+            {
+              "name": "Market Penetration Strategy"
+            }
+          ]
+        },
+        {
+          "name": "About Company",
+          "children": [
+            {
+              "name": "Drone Company Name"
+            },
+            {
+              "name": "Number of employees"
+            },
+            {
+              "name": "Company Details"
+            },
+            {
+              "name": "Location"
+            },
+            {
+              "name": "Year of Establishment"
+            },
+            {
+              "name": "Qualified or not. Phase 1, 2 or 3"
+            }
+          ]
+        }
+
+      ]
+    }
+  ]
+}

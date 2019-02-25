@@ -1,0 +1,26 @@
+[
+ {
+  "name": "artists",
+  "parent": "null",
+  "children": [
+   {
+    "name": "names",
+    "parent": "artists",
+    "children": [
+     {
+      "name": "Leonard",
+      "parent": "names"
+     },
+     {
+      "name": "Joe",
+      "parent": "names"
+     }
+    ]
+   },
+   {
+    "name": "Level 2: B",
+    "parent": "Top Level"
+   }
+  ]
+ }
+]
